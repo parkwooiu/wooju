@@ -1,0 +1,22 @@
+package ex03;
+
+import java.util.Scanner;
+
+public class IfElseIfExam03 {
+
+	public static void main(String[] args) {
+		
+	int A = 10;
+	if(A > 15)
+	System.out.println("숫자가 15 보다 큽니다");
+	
+	System.out.println();
+		
+		
+		
+				
+		
+
+	}
+
+}

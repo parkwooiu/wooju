@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class If04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("당신의 점수를 입력하세요");
+		Scanner scor = new Scanner(System.in);
+		int s  = scor.nextInt();
+		
+		if(s > 90);
+		System.out.println("a학점입니다");
+		else
+			System.out.println("탈락입니다");
+			
+	
+         
+	}
+	
+}

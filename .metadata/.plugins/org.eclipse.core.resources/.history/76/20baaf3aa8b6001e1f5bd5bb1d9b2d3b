@@ -1,0 +1,30 @@
+package ex03;
+
+import java.util.Scanner;
+
+import ex02.Scanner01;
+
+public class IfElseIfExam03 {
+
+	public static void main(String[] args) {
+		
+    int num = 120;
+    
+   if ( num < 100 );
+    System.out.println("100보다 작습니다");
+    else
+   System.out.println("100보다 큽니다");
+  
+	
+		
+	
+			
+	
+		
+		
+				
+		
+
+	}
+
+}

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class If04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("당신의 학점은?");
+		  Scanner scan = new Scanner(System.in);
+		   int z = scan.nextInt();
+		   int x = scan.nextInt();
+		   int C = scan.nextInt();
+		   
+          if(z>90);
+          System.out.println( z + "A");
+          
+         
+	}
+
+}
